@@ -1,4 +1,4 @@
-const driver = new Object{};
+const driver = {};
 
 
 function  updateDriverWithKeyAndValue(driver, key, value) {
